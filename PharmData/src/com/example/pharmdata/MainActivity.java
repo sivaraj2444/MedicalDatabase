@@ -24,7 +24,7 @@ public class MainActivity extends Activity {
 	private String URL = "https://www.1mg.com/api/v1/search/autocomplete?name=b&pageSize=100&_=1435404923427";
 	MedicDatabase mdb;
 
-	// This is a
+	
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 
